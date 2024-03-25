@@ -1,0 +1,90 @@
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.exe
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.deps.json
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.runtimeconfig.json
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.pdb
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.dll
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.pdb
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.AssemblyReference.cache
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfoInputs.cache
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfo.cs
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CopyComplete
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\refint\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.pdb
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.genruntimeconfig.cache
+D:\HBO ICT\Semester 2\Oefening\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\ref\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.exe
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.deps.json
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.runtimeconfig.json
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.pdb
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.dll
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.pdb
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.AssemblyReference.cache
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfoInputs.cache
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfo.cs
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CopyComplete
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\refint\Bezoekersorteerder.dll
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.pdb
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.genruntimeconfig.cache
+D:\HBO ICT\Semester 2\Oefening\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\ref\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.exe
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.deps.json
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.runtimeconfig.json
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfo.cs
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CopyComplete
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\refint\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.genruntimeconfig.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\ref\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.exe
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.deps.json
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.runtimeconfig.json
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfo.cs
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CopyComplete
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\refint\Bezoekersorteerder.dll
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.genruntimeconfig.cache
+C:\Users\Jimmy\Desktop\Schoolshit\Semester 2\Code\algoritme-opdracht-v2\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\ref\Bezoekersorteerder.dll
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.exe
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.deps.json
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.runtimeconfig.json
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.dll
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\bin\Debug\net6.0\AlgoritmeClasslibrary.pdb
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.AssemblyInfo.cs
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.csproj.CopyComplete
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.dll
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\refint\Bezoekersorteerder.dll
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.pdb
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\Bezoekersorteerder.genruntimeconfig.cache
+C:\Users\Jimmy\Downloads\Algoritme bezoekers sorteer\Bezoekersorteerder\obj\Debug\net6.0\ref\Bezoekersorteerder.dll
